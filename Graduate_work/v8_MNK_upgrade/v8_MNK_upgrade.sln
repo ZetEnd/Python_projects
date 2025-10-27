@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "v8_MNK_upgrade", "v8_MNK_upgrade.pyproj", "{8CD4F14C-7D8C-4B11-963E-B01CB19D1088}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CD4F14C-7D8C-4B11-963E-B01CB19D1088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CD4F14C-7D8C-4B11-963E-B01CB19D1088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01376ACE-8BC5-44D1-AF27-1EFC31B8E0BD}
+	EndGlobalSection
+EndGlobal

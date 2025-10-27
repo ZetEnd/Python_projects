@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GreedyAlgorithm_D", "GreedyAlgorithm_D.pyproj", "{E93EF859-CB42-4F68-8B15-06E0A6179F8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E93EF859-CB42-4F68-8B15-06E0A6179F8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E93EF859-CB42-4F68-8B15-06E0A6179F8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A83B940-1D4A-4C8F-BFC7-DD91F6A1A808}
+	EndGlobalSection
+EndGlobal

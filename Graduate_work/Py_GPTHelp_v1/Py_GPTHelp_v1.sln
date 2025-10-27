@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Py_GPTHelp_v1", "Py_GPTHelp_v1.pyproj", "{35037E68-16BA-43D4-BF6D-BEA5A975746F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35037E68-16BA-43D4-BF6D-BEA5A975746F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35037E68-16BA-43D4-BF6D-BEA5A975746F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6140496-66D3-45A6-8D1B-C51C9880491E}
+	EndGlobalSection
+EndGlobal
